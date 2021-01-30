@@ -7,7 +7,7 @@ Oh, and hire me. Please?
 
 ## Current GitHub stuff
 
-Come say hi to me on the [Go issue tracker](https://github.com/golang/go/issues) (actually don't, bugs and proposals **only**).
+Come say hi to me on the [Go issue tracker](https://golang.org/issue) (actually don't, bugs and proposals **only**).
 
 Where old repos go to ~~die~~ live out their days on a peaceful farm: [@erred](https://github.com/erred)
 
