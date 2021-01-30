@@ -9,6 +9,6 @@ Oh, and hire me. Please?
 
 Come say hi to me on the [Go issue tracker](https://github.com/golang/go/issues) (actually don't, bugs and proposals only).
 
-Where old repos go to ~~die~~ live out their days on a peaceful farm: @erred
+Where old repos go to ~~die~~ live out their days on a peaceful farm: [@erred](https://github.com/erred)
 
-Current work account: @sean-dbk for @deBijenkorf
+Current work account: [@sean-dbk](https://github.com/sean-dbk) for [@deBijenkorf](https://github.com/deBijenkorf)
