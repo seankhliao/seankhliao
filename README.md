@@ -12,3 +12,7 @@ Come say hi to me on the [Go issue tracker](https://golang.org/issue) (actually 
 Where old repos go to ~~die~~ live out their days on a peaceful farm: [@erred](https://github.com/erred)
 
 Current work account: [@sean-dbk](https://github.com/sean-dbk) for [@deBijenkorf](https://github.com/deBijenkorf)
+
+All my code is public by default,
+but please disregard all `testrepo-*` repos unless I linked you to them.
+They're usually there to test the behaviour of something.
