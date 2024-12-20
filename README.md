@@ -6,5 +6,6 @@ is much prettier than a readme.
 Other accounts:
 
 - Code archive: [@erred](https://github.com/erred)
-- Current work: [@sean-snyk](https://github.com/sean-snyk)
+- Current work: [@sean-circle](https://github.com/sean-circle)
+- Previous work: [@sean-snyk](https://github.com/sean-snyk)
 - Previous work: [@sean-dbk](https://github.com/sean-dbk)
