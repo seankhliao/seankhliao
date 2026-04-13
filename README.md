@@ -12,6 +12,8 @@ In particular:
 Open source work:
 
 - Primarily issue triage and code reviewer for the [Go programming language](https://github.com/golang/go).
+- Pull requests [in Github](https://github.com/search?q=author%3Aseankhliao&type=pullrequests&s=created&o=desc)
+- Change lists [in Go Gerrit](https://go-review.googlesource.com/q/author:sean@liao.dev)
 
 Other accounts:
 
